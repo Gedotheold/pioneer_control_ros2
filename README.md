@@ -62,3 +62,5 @@ ros2 run pioneer_control sensor_viz_node
 ```
 A Matplotlib window will open, displaying a 16-bar graph that dynamically updates as the robot approaches obstacles in the simulator[cite: 1, 3].
 
+##Yotube video
+https://youtu.be/egYkvIy38b0
