@@ -62,6 +62,3 @@ ros2 run pioneer_control sensor_viz_node
 ```
 A Matplotlib window will open, displaying a 16-bar graph that dynamically updates as the robot approaches obstacles in the simulator[cite: 1, 3].
 
-## Demonstration
-
-[Insert link to 1-2 minute YouTube demonstration video here, showing the terminal nodes, CoppeliaSim environment, and real-time Matplotlib graph][cite: 4]
