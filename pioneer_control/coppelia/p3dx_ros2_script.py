@@ -1,7 +1,6 @@
 function sysCall_init()
     sim = require('sim')
     simROS2 = require('simROS2')
-
     -- Change this if your model is named differently (e.g. "/PioneerP3DX[0]")
     local base = "/PioneerP3DX"
 
