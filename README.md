@@ -43,8 +43,8 @@ Ensure the following software and libraries are installed before running the pac
 
 ### 1. Launch CoppeliaSim
 1. Open the CoppeliaSim application
-2. From the Model Browser, import the Pioneer 3-DX model located at `Models/mobile/Pioneer p3dx.ttm`
-3. Add walls or objects to the environment to test the ultrasonic sensors
+2. From the File, open the scnee located at `pioneer_control/coppelia/SceneP3DX.ttm`
+3. Modify the Enivroment as you like
 4. Start the simulation.
 
 ### 2. Run the Teleoperation Node
